@@ -1,0 +1,51 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/myelopathy-spondylosis---primary.py
+inputModule3:
+  class: File
+  path: python/spondylosis-compression---primary.py
+inputModule4:
+  class: File
+  path: python/spondylosis---primary.py
+inputModule5:
+  class: File
+  path: python/spondylosis-osteoarthritis---primary.py
+inputModule6:
+  class: File
+  path: python/cervical-spondylosis---primary.py
+inputModule7:
+  class: File
+  path: python/spondylosis-singlelevel---primary.py
+inputModule8:
+  class: File
+  path: python/spondylosis-twolevel---primary.py
+inputModule9:
+  class: File
+  path: python/spondylosis-multiplelevel---primary.py
+inputModule10:
+  class: File
+  path: python/thoracic-spondylosis---primary.py
+inputModule11:
+  class: File
+  path: python/lumbosacral-spondylosis---primary.py
+inputModule12:
+  class: File
+  path: python/spondylosis-lumbar---primary.py
+inputModule13:
+  class: File
+  path: python/radiculopathy-spondylosis---primary.py
+inputModule14:
+  class: File
+  path: python/other-spondylosis---primary.py
+inputModule15:
+  class: File
+  path: python/other-spondylosis---secondary.py
+inputModule16:
+  class: File
+  path: python/spondylosis---secondary.py
+inputModule17:
+  class: File
+  path: python/output-cases.py
